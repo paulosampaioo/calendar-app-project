@@ -54,10 +54,6 @@ By publishing Clendar, I would like to give back to the community. 😊
 > sudo arch -x86_64 gem install ffi
 > arch -x86_64 pod install
 > ```
-> Or:
->
-> run terminal with Rosetta and run `pod install`
->> Thanks https://github.com/vinhnx/Clendar/issues/220#issuecomment-1107809043
 
 ### Tech stacks
 
@@ -67,7 +63,7 @@ Core:
 -   iPadOS
 -   WidgetKit
 -   SiriKit
--   EventKit/EvenKit UI - wrapper with my own [Shift package](https://github.com/vinhnx/Shift) 📆
+-   EventKit/EvenKit UI 
 -   WatchKit
 -   Combine
 -   Catalyst
@@ -115,7 +111,6 @@ Huge thanks everyone who took their precious time and effort to contribute to th
 
 -   [Aleksandr Sutulov](https://github.com/AlexanderSutul)
 -   [Jan Matoniak](https://github.com/kapucnov2321)
--
 
 💡🧡
 
@@ -126,20 +121,10 @@ Huge thanks everyone who took their precious time and effort to contribute to th
 You can do whatever you want with this source code: modify, tweak or use as learning resources, for example... 🛠👨🏻‍💻
 
 
-And, if you like, you can download the app for free on the [App Store](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041?itsct=apps_box&itscg=30200).
-
 ### Open-source inspiration
 
 -   https://github.com/jeffreybergier/WaterMe
 
 ### What's 'Clendar'?
 
-It's just Calendar, without an 'a'. I thought it's unique, but turns out it's not going well with ASO (App Store Optimization) and SEO (Search Engine Optimization).
-
-But, whatever!
-
----
-
-Thanks and take care! 🍀
-
-I'm on `@vinhnx` on almost everywhere.
+it's just a project with didactic questions, for my learning of those who worked on it and for future generations, who want a simple and practical example of an app.
