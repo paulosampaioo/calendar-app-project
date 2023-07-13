@@ -1,4 +1,3 @@
-[![SwiftLint](https://github.com/vinhnx/Clendar/actions/workflows/swiftlint.yml/badge.svg)](https://github.com/vinhnx/Clendar/actions/workflows/swiftlint.yml)
 
 <h1 align="center">
 Clendar - Minimal Calendar
@@ -12,15 +11,14 @@ Clendar - Minimal Calendar
                     src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-US?size=250x83&amp;releaseDate=1600214400&h=b81fd00fac3280be6ec30d3d3a1461f0"
                     alt="Download on the App Store"
                     style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a></p>
-            <p align="center"><img src="https://www.clendar.info/img/qr.png" height="200" width="200"></p>
+           
 
 > [Landing Page](http://vinhnx.github.io/clendar-site)
 
 ### About
-
-This project is started out as an UIKit base app for me to learn new WWDC features over the years. But one day, I decided to convert the whole app from UIKit -> SwiftUI and boom, here we are.
-
-This is the PR => https://github.com/vinhnx/Clendar/pull/35
+📖Presenting the finished project and my contributions to this app that was born with a didactic background, 
+for me and anyone who wants to use it as an example.
+I appreciate the opportunity given by the author who let me be part of the project, and accepting my contribution.📖
 
 ### SwiftUI
 
