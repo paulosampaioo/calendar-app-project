@@ -13,7 +13,6 @@ Clendar - Minimal Calendar
                     style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a></p>
            
 
-> [Landing Page](http://vinhnx.github.io/clendar-site)
 
 ### About
 📖Presenting the finished project and my contributions to this app that was born with a didactic background, 
